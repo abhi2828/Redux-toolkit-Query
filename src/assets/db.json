@@ -1,14 +1,79 @@
 {
-    "posts": [
-      { "id": "1", "title": "Post1", "userId": 23,"body":"some random post" },
-      { "id": "2", "title": "Post2", "views": 200,"body":"some random post" }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post1",
+      "userId": 23,
+      "body": "some random post"
+    },
+    {
+      "id": 2,
+      "title": "Post2",
+      "views": 200,
+      "body": "some random post"
+    },
+    {
+      "id": 308.25217073631904,
+      "title": "Post3",
+      "body": "rendome",
+      "userId": 0.051000678163104496
+    },
+    {
+      "id": 696.8413785164303,
+      "title": "post4",
+      "body": "working",
+      "userId": 235.49881840986498
+    },
+    {
+      "id": 130.9837663860278,
+      "title": "post5",
+      "body": "test2",
+      "userId": 363.92605392026377
+    },
+    {
+      "id": 278.8062303110297,
+      "title": "post6",
+      "body": "test6",
+      "userId": 118.50697844558722
+    },
+    {
+      "id": 748.598084758534,
+      "title": "post7",
+      "body": "test7",
+      "userId": 12.745246649400244
+    },
+    {
+      "id": 552.1868982256584,
+      "title": "post8",
+      "body": "test8",
+      "userId": 276.14344544905236
+    },
+    {
+      "id": 597.4404592266735,
+      "title": "post9",
+      "body": "test9",
+      "userId": 732.5700825236721
+    },
+    {
+      "id": 554.2468478927789,
+      "title": "post10",
+      "body": "test10",
+      "userId": 768.5611050848142
     }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  
+}
